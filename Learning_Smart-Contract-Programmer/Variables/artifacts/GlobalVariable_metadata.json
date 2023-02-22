@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "globalVars",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/Variables/GlobalVariable.sol": "GlobalVariable"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/Variables/GlobalVariable.sol": {
+			"keccak256": "0x587a0a4009afa83f14c7b7bcc8b1ef2fcd55edaeb6e41f9d51d4dc915a0aed23",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3c851cb5887a40ba20795accc36054c2ecd6340964c4cdf235b2108ba0485285",
+				"dweb:/ipfs/QmWT8icrwHw5Y2mGhDPfoiLUAyXzsHxhCPdNbNALy3ZeTy"
+			]
+		}
+	},
+	"version": 1
+}

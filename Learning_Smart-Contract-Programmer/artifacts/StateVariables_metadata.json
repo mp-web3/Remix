@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/StateVariables.sol": "StateVariables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/StateVariables.sol": {
+			"keccak256": "0x8d9339b1644b9ed0974cc7188686af543e72e749f4d2bb3d1f0109a81df2728d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6810d9ee4e0ad9090281881e5e70962731ecdbda4151687898334b44dbca5406",
+				"dweb:/ipfs/QmdiLhYWnk1bwESSh1Lxf8wpBTmkNfWpCwAKwiW3DMcJBp"
+			]
+		}
+	},
+	"version": 1
+}
