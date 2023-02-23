@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loops",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/ForAndWhileLoops/SumAllToTen-ForLoop.sol": "ExerciseOneForLoop"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/ForAndWhileLoops/SumAllToTen-ForLoop.sol": {
+			"keccak256": "0x0f03a9e751952137171ef60cafa6d4418c20de880971360157ea19a98ab1571b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9e4f51d52352861570f9ad72e3eedefbdf6e5815784216a2d82d0965fcd6e7b3",
+				"dweb:/ipfs/QmZzEq28adqTnF5XqurnPibTpjyjwCLH7YqiS55R8Yaz5r"
+			]
+		}
+	},
+	"version": 1
+}

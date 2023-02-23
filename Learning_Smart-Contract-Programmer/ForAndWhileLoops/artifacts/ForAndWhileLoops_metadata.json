@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loops",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/ForAndWhileLoops/ForAndWhileLoops.sol": "ForAndWhileLoops"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/ForAndWhileLoops/ForAndWhileLoops.sol": {
+			"keccak256": "0xf482c06d52cee85c68eb20a21a09775e3cda24efe2989aa56b8af0c793f929ef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://74ae858480f346e1c5a93064cf1bb1f0bc97e9c0d1055bf22b0026ae6797e49a",
+				"dweb:/ipfs/QmVzq7Mc8woXtThjU5SZwVhQJqMihTtA1BycYsRCP9texs"
+			]
+		}
+	},
+	"version": 1
+}

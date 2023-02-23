@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AddOne",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/Applications/Counter.sol": "CounterApp"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/Applications/Counter.sol": {
+			"keccak256": "0xeef91155fa4bff9c6ce28057a4d73e149acdf8d9802c8b7986580280cd27aaa4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aa13fb3df3dd4c2ea74e243043cd37a44e5ed29d43a5d2b5fe92614435555738",
+				"dweb:/ipfs/QmSUzdtfvLerDtrhLAzcYLnZdChJiBsuhXsazZA628KRf9"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning_Smart-Contract-Programmer/Variables/Constants.sol": "Var"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning_Smart-Contract-Programmer/Variables/Constants.sol": {
+			"keccak256": "0xea3dfd732d4d0bbb58d4d25e937ae737446f7228eff4df24df378ad9fa5f2d06",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://58894e902a0c4886b60966a7482ab138dd96f0554d7cf7e6f2d405eeddd34770",
+				"dweb:/ipfs/Qmb1K9Wx15SP6SDcTFyzLdmXDJvSCBJxa1tehfd2girJqN"
+			]
+		}
+	},
+	"version": 1
+}
